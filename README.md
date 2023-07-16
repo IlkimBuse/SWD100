@@ -1,2 +1,2 @@
 # SWD100
-This is a SWD100 file.
+This is some new text
